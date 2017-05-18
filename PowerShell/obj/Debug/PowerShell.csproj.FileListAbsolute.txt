@@ -1,0 +1,7 @@
+C:\swat\Practise\PowerShell\PowerShell\bin\Debug\PowerShell.exe.config
+C:\swat\Practise\PowerShell\PowerShell\obj\Debug\PowerShell.csprojResolveAssemblyReference.cache
+C:\swat\Practise\PowerShell\PowerShell\bin\Debug\PowerShell.exe
+C:\swat\Practise\PowerShell\PowerShell\bin\Debug\PowerShell.pdb
+C:\swat\Practise\PowerShell\PowerShell\bin\Debug\System.Management.Automation.dll
+C:\swat\Practise\PowerShell\PowerShell\obj\Debug\PowerShell.exe
+C:\swat\Practise\PowerShell\PowerShell\obj\Debug\PowerShell.pdb
